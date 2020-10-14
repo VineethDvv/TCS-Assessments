@@ -65,8 +65,8 @@ a {
 }
 
 .success {
-  color: #3a6e3a;
-  border: 1px solid #3a6e3a;
+  color: #384cfd;
+  border: 1px solid #375fe2;
   background: #bcf5bc;
 }
 
@@ -134,7 +134,7 @@ header ul li ul li {
 header ul li ul li a {
   padding: 10px;
   background: white;
-  color: #444;
+  color: rgb(73, 55, 235);
 }
 
 header ul li ul li a.logout {
@@ -194,7 +194,7 @@ header .menu-toggle {
   top: 50%;
   left: 30px;
   font-size: 2em;
-  color: #006669;
+  color: #2f44ff;
   cursor: pointer;
 }
 
@@ -273,14 +273,14 @@ header .menu-toggle {
 }
 
 .content .main-content .post .post-preview i {
-  color: #757575;
+  color: #372af1;
   font-size: .8em;
 }
 
 .content .main-content .post .preview-text {
   line-height: 1.5em;
   font-size: 1.03em;
-  color: #444;
+  color: rgb(86, 50, 248);
 }
 
 .content .main-content .post .read-more {
@@ -290,11 +290,11 @@ header .menu-toggle {
   border: 1px solid #006669;
   background: transparent;
   border-radius: 0px;
-  color: #006669 !important;
+  color: #341dff !important;
 }
 
 .content .main-content .post .read-more:hover {
-  background: #006669;
+  background: #372af5;
   color: white !important;
   transition: .25s;
 }
