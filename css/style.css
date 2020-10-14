@@ -25,7 +25,7 @@ a {
 
 .btn {
   padding: .5rem 1rem;
-  background: rgb(0, 4, 197);
+  background: rgb(52, 54, 165);
   color: white;
   border: 1px solid transparent;
   border-radius: .25rem;
@@ -40,7 +40,7 @@ a {
 
 .btn:hover {
   color: white !important;
-  background: #2470bd;
+  background: #0b00a7;
 }
 
 .text-input {
