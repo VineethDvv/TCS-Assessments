@@ -25,7 +25,7 @@ a {
 
 .btn {
   padding: .5rem 1rem;
-  background: rgb(52, 54, 165);
+  background: rgb(0, 4, 197);
   color: white;
   border: 1px solid transparent;
   border-radius: .25rem;
@@ -40,7 +40,7 @@ a {
 
 .btn:hover {
   color: white !important;
-  background: #0b00a7;
+  background: #8f8fb4;
 }
 
 .text-input {
@@ -50,7 +50,7 @@ a {
   border-radius: 5px;
   border: 1px solid #e0e0e0;
   outline: none;
-  color: #444;
+  color: rgb(53, 13, 233);
   line-height: 1.5rem;
   font-size: 1.2em;
   font-family: 'Lora', serif;
@@ -65,8 +65,8 @@ a {
 }
 
 .success {
-  color: #384cfd;
-  border: 1px solid #375fe2;
+  color: #3a6e3a;
+  border: 1px solid #3a6e3a;
   background: #bcf5bc;
 }
 
@@ -134,7 +134,7 @@ header ul li ul li {
 header ul li ul li a {
   padding: 10px;
   background: white;
-  color: rgb(73, 55, 235);
+  color: #444;
 }
 
 header ul li ul li a.logout {
@@ -194,7 +194,7 @@ header .menu-toggle {
   top: 50%;
   left: 30px;
   font-size: 2em;
-  color: #2f44ff;
+  color: #006669;
   cursor: pointer;
 }
 
@@ -273,14 +273,14 @@ header .menu-toggle {
 }
 
 .content .main-content .post .post-preview i {
-  color: #372af1;
+  color: #757575;
   font-size: .8em;
 }
 
 .content .main-content .post .preview-text {
   line-height: 1.5em;
   font-size: 1.03em;
-  color: rgb(86, 50, 248);
+  color: #444;
 }
 
 .content .main-content .post .read-more {
@@ -290,11 +290,11 @@ header .menu-toggle {
   border: 1px solid #006669;
   background: transparent;
   border-radius: 0px;
-  color: #341dff !important;
+  color: #006669 !important;
 }
 
 .content .main-content .post .read-more:hover {
-  background: #372af5;
+  background: #006669;
   color: white !important;
   transition: .25s;
 }
